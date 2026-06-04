@@ -8,13 +8,13 @@
 
 ## About Me
 
-I'm passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy building practical applications that combine data, automation, and intelligent decision-making.
+I'm passionate about Artificial Intelligence, Machine Learning, and Data . I enjoy building practical applications that combine data, automation, and intelligent decision-making.
 
 Currently, I am focused on:
 
 * Building AI-powered applications
 * Exploring Generative AI and LLMs
-* Developing Full-Stack solutions using React and FastAPI
+* Developing solutions using React and FastAPI
 * Strengthening my Machine Learning and Data Science skills
 * Preparing for software engineering and AI/ML opportunities
 
@@ -43,7 +43,7 @@ Currently, I am focused on:
 * Generative AI
 * Large Language Models (LLMs)
 
-### Web Development
+### Development
 
 * React.js
 * FastAPI
