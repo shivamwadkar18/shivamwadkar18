@@ -24,17 +24,9 @@ Currently focused on:
 
 **Data Analytics:** Data Cleaning, EDA, Visualization, Statistical Analysis
 
-**Web:** React.js, FastAPI, Streamlit, REST APIs
+**Development:** React.js, FastAPI, Streamlit, REST APIs
 
 **Tools:** Git, GitHub, VS Code, Jupyter, MySQL, Postman
-
-## Projects
-
-🔹 **AnalystIQ** – AI-powered AutoML & Data Analytics Platform
-
-🔹 **AI Legal Advisor** – AI-based Legal Assistance Application
-
-🔹 **EmotiTune** – Emotion-based Music Recommendation System
 
 ## Currently Learning
 
