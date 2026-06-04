@@ -112,7 +112,7 @@ An emotion-based music recommendation system that suggests songs using sentiment
 * AI/ML Engineering
 * Data Science
 * Generative AI
-* Full-Stack Development
+* Data Analyst
 * Software Engineering
 
 ---
