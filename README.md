@@ -5,44 +5,66 @@
 📊 Data Analytics Enthusiast
 📍 Mumbai, India
 
+---
+
 ## About Me
 
 Passionate about building AI-powered applications and transforming data into meaningful insights through Machine Learning, Data Analytics, and Software Development.
 
-Currently focused on:
+### Current Focus
 
 * Artificial Intelligence & Machine Learning
 * Data Analytics & Visualization
 * Generative AI & LLMs
 * Software Development
 
+---
+
 ## Tech Stack
 
-**Languages:** Python, Java, C, SQL, JavaScript
+### Languages
 
-**AI/ML:** Scikit-Learn, Pandas, NumPy, Machine Learning, AutoML, LLMs
+`Python` `Java` `C` `SQL` `JavaScript`
 
-**Data Analytics:** Data Cleaning, EDA, Visualization, Statistical Analysis
+### AI & Machine Learning
 
-**Development:** React.js, FastAPI, Streamlit, REST APIs
+`Scikit-Learn` `Pandas` `NumPy` `Machine Learning` `AutoML` `LLMs`
 
-**Tools:** Git, GitHub, VS Code, Jupyter, MySQL, Postman
+### Data Analytics
+
+`Data Cleaning` `EDA` `Data Visualization` `Statistical Analysis`
+
+### Development
+
+`React.js` `FastAPI` `Streamlit` `REST APIs`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `MySQL` `Postman`
+
+---
 
 ## Currently Learning
 
 * Agentic AI
 * RAG Systems
 * LangChain & LangGraph
-* MLOps & Cloud Technologies
-
-## Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/shivam-wadkar-728778265
-
-📸 Instagram: https://www.instagram.com/im_shivam._07/
-
-💻 GitHub: https://github.com/shivamwadkar18
+* MLOps
+* Cloud Technologies
 
 ---
 
-*"Always learning. Always building."* 🚀
+## Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/shivam-wadkar-728778265
+
+📸 Instagram
+https://www.instagram.com/im_shivam._07/
+
+💻 GitHub
+https://github.com/shivamwadkar18
+
+---
+
+> *"Always learning. Always building."* 🚀
