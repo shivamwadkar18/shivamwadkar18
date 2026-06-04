@@ -1,131 +1,56 @@
 # Hi, I'm Shivam Wadkar 👋
 
 🎓 Information Technology Student
-🤖 Aspiring AI/ML Engineer | Data Analyst
+🤖 Aspiring AI/ML Engineer & Developer
+📊 Data Analytics Enthusiast
 📍 Mumbai, India
-
----
 
 ## About Me
 
-I'm passionate about Artificial Intelligence, Machine Learning, and Data . I enjoy building practical applications that combine data, automation, and intelligent decision-making.
+Passionate about building AI-powered applications and transforming data into meaningful insights through Machine Learning, Data Analytics, and Software Development.
 
-Currently, I am focused on:
+Currently focused on:
 
-* Building AI-powered applications
-* Exploring Generative AI and LLMs
-* Developing solutions using React and FastAPI
-* Strengthening my Machine Learning and Data Science skills
-* Preparing for software engineering and AI/ML opportunities
+* Artificial Intelligence & Machine Learning
+* Data Analytics & Visualization
+* Generative AI & LLMs
+* Software Development
 
----
+## Tech Stack
 
-## Technical Skills
+**Languages:** Python, Java, C, SQL, JavaScript
 
-### Languages
+**AI/ML:** Scikit-Learn, Pandas, NumPy, Machine Learning, AutoML, LLMs
 
-* Python
-* Java
-* C
-* SQL
-* JavaScript
+**Data Analytics:** Data Cleaning, EDA, Visualization, Statistical Analysis
 
-### AI & Machine Learning
+**Web:** React.js, FastAPI, Streamlit, REST APIs
 
-* Scikit-Learn
-* Pandas
-* NumPy
-* Matplotlib
-* Machine Learning
-* Data Analysis
-* Data Visualization
-* AutoML
-* Generative AI
-* Large Language Models (LLMs)
+**Tools:** Git, GitHub, VS Code, Jupyter, MySQL, Postman
 
-### Development
+## Projects
 
-* React.js
-* FastAPI
-* Streamlit
-* HTML
-* CSS
-* REST APIs
+🔹 **AnalystIQ** – AI-powered AutoML & Data Analytics Platform
 
-### Databases & Tools
+🔹 **AI Legal Advisor** – AI-based Legal Assistance Application
 
-* MySQL
-* SQLite
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
-* Postman
-
----
-
-## Featured Projects
-
-### 📊 AnalystIQ
-
-An AI-powered data analytics and AutoML platform that helps users:
-
-* Upload and clean datasets
-* Generate automated EDA reports
-* Create AI-powered dataset summaries
-* Train Machine Learning models
-* Understand model performance through AI explanations
-
-**Tech Stack:** Python, Streamlit, Scikit-Learn, OpenRouter API
-
----
-
-### ⚖️ AI Legal Advisor
-
-A full-stack AI application designed to assist users with legal document analysis and intelligent legal assistance.
-
-**Tech Stack:** React, FastAPI, Python, AI/LLMs
-
----
-
-### 🎵 EmotiTune
-
-An emotion-based music recommendation system that suggests songs using sentiment analysis and machine learning.
-
-**Tech Stack:** Python, Streamlit, Machine Learning
-
----
+🔹 **EmotiTune** – Emotion-based Music Recommendation System
 
 ## Currently Learning
 
 * Agentic AI
-* RAG (Retrieval-Augmented Generation)
-* LangChain
-* LangGraph
-* Vector Databases
-* MLOps
-* Cloud Computing
-
----
-
-## Career Interests
-
-* AI/ML Engineering
-* Data Science
-* Generative AI
-* Data Analyst
-* Software Engineering
-
----
-
+* RAG Systems
+* LangChain & LangGraph
+* MLOps & Cloud Technologies
 
 ## Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/shivam-wadkar-728778265
+💼 LinkedIn: linkedin.com/in/shivam-wadkar-728778265
 
-📸 Instagram: https://www.instagram.com/im_shivam._07/
+📸 Instagram: @im_shivam._07
 
-💻 GitHub: https://github.com/shivamwadkar18
+💻 GitHub: github.com/shivamwadkar18
 
 ---
 
-*"Always learning, always building."* 🚀
+*"Always learning. Always building."* 🚀
