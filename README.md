@@ -1,7 +1,7 @@
 # Hi, I'm Shivam Wadkar 👋
 
 🎓 Information Technology Student
-🤖 Aspiring AI/ML Engineer | Full-Stack Developer
+🤖 Aspiring AI/ML Engineer | Data Analyst
 📍 Mumbai, India
 
 ---
