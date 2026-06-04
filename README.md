@@ -117,13 +117,6 @@ An emotion-based music recommendation system that suggests songs using sentiment
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivamwadkar18\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamwadkar18\&layout=compact)
-
----
 
 ## Connect With Me
 
