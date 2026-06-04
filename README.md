@@ -45,7 +45,7 @@ Currently focused on:
 
 ## Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/ shivam-wadkar-728778265
+💼 LinkedIn: https://www.linkedin.com/in/shivam-wadkar-728778265
 
 📸 Instagram: https://www.instagram.com/im_shivam._07/
 
